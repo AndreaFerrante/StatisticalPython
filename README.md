@@ -8,4 +8,4 @@ The Jupyter Notebook comes handy to brush up what follows:
 3. **Correlation Analysis**
 4. **Regression Analysis**
 
-Teh data needed for the Notebook to work is within the first cells of the same notebook.
+The data needed for the Notebook to work is within the first cells of the same notebook.
